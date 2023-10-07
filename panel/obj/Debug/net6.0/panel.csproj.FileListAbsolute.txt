@@ -1,0 +1,15 @@
+C:\Users\is\Desktop\panel\bin\Debug\net6.0\panel.exe
+C:\Users\is\Desktop\panel\bin\Debug\net6.0\panel.deps.json
+C:\Users\is\Desktop\panel\bin\Debug\net6.0\panel.runtimeconfig.json
+C:\Users\is\Desktop\panel\bin\Debug\net6.0\panel.dll
+C:\Users\is\Desktop\panel\bin\Debug\net6.0\panel.pdb
+C:\Users\is\Desktop\panel\obj\Debug\net6.0\panel.csproj.AssemblyReference.cache
+C:\Users\is\Desktop\panel\obj\Debug\net6.0\panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is\Desktop\panel\obj\Debug\net6.0\panel.AssemblyInfoInputs.cache
+C:\Users\is\Desktop\panel\obj\Debug\net6.0\panel.AssemblyInfo.cs
+C:\Users\is\Desktop\panel\obj\Debug\net6.0\panel.csproj.CoreCompileInputs.cache
+C:\Users\is\Desktop\panel\obj\Debug\net6.0\panel.dll
+C:\Users\is\Desktop\panel\obj\Debug\net6.0\refint\panel.dll
+C:\Users\is\Desktop\panel\obj\Debug\net6.0\panel.pdb
+C:\Users\is\Desktop\panel\obj\Debug\net6.0\panel.genruntimeconfig.cache
+C:\Users\is\Desktop\panel\obj\Debug\net6.0\ref\panel.dll
